@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/search_tab"
+        tittle="search"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/search_icon"
+        />
+    <tab
+        id="@+id/home_tab"
+        tittle="home"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/home_icon"
+        />
+    <tab
+        id="@+id/profile_tab"
+        tittle="profile"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/profile_icon"
+        />
+
+</tabs>

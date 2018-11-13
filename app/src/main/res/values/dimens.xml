@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_size_login">22sp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="dont_have_account_text_login">16sp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_view_height">200dp</dimen>
+    <dimen name="card_view_corner_radius">4dp</dimen>
+    <dimen name="username_size_card_view">14sp</dimen>
+    <dimen name="like_margin_top_card_view">6dp</dimen>
+    <dimen name="bottom_bar_height">70dp</dimen>
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="app_bar_layout_height">256dp</dimen>
+    <dimen name="textsize_username_detail_activity">25sp</dimen>
+    <dimen name="textsize_likes_number_detail_activity">15sp</dimen>
+    <dimen name="margin_left_second_word_likes">7dp</dimen>
+    <dimen name="height_divider">1dp</dimen>
+    <dimen name="padding_top_tittle_photo">20dp</dimen>
+    <dimen name="circleimageprofile_size">150dp</dimen>
+    <dimen name="margin_top_circleimageprofile">30dp</dimen>
+    <dimen name="elevation_circleimageprofile">10dp</dimen>
+    <dimen name="limity_circleimageprofile">-206dp</dimen>
+    <dimen name="margin_top_toolbar_circleimageprofile">-15dp</dimen>
+    <dimen name="width_circleimageprofile_toolbar">20dp</dimen>
+    <dimen name="margin_left_username_toolbar_profile_fragment">72dp</dimen>
+    <dimen name="margin_top_username_toolbar_profile_fragment">-100dp</dimen>
+    <dimen name="margin_top_targety_circle_circleimageprofile_toolbar">-5dp</dimen>
+
+</resources>

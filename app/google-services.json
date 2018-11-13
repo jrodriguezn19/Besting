@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1031434559627",
+    "firebase_url": "https://besting-bfcac.firebaseio.com",
+    "project_id": "besting-bfcac",
+    "storage_bucket": "besting-bfcac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031434559627:android:6a67323471469ea0",
+        "android_client_info": {
+          "package_name": "com.mad.besting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031434559627-5jcu5jcgcuu5fv43rpuk2ve0qmrnmotf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.besting",
+            "certificate_hash": "e2d87ef366df5fa9c1e753f4ac7f61af198dc076"
+          }
+        },
+        {
+          "client_id": "1031434559627-uegig1dc3ktd7ghpqtt1p11d0f6fl9sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7iSlQ1XthNx_-xlVws4TTPEsj-wVlJa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031434559627-uegig1dc3ktd7ghpqtt1p11d0f6fl9sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Besting</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="tool_bar_title">Create Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transition_name_to_photo">transition_name_to_photo</string>
+    <string name="action_settings">settings</string>
+    <string name="email">email</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="join_besting">Join Besting</string>
+    <string name="besting">Besting</string>
+    <string name="login">login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?,</string>
+    <string name="create_one_here">Create one here.</string>
+    <string name="comment">Comment</string>
+    <string name="post_photo">Post Photo</string>
+    <string name="likes_demo">10</string>
+    <string name="likes_word">Likes</string>
+    <string name="comment_demo">Life is 10% what happens to you and 90% how you react to it.</string>
+    <string name="photo_detail_demo">Photo_detail</string>
+    <string name="_4_days_demo">4 days</string>
+    <string name="ago_demo">ago</string>
+    <string name="_10_likes_demo">10 Likes</string>
+    <string name="_2_dislikes_demo">2 Dislikes</string>
+    <string name="search">Search</string>
+    <string name="george_rodriguez">George Rodriguez</string>
+    <string name="n_n_george_rodriguez">\n\nGeorge Rodriguez</string>
+    <string name="error_login">Username or Password Incorrect</string>
+    <string name="validate_username_password">Please type Username and Password</string>
+    <string name="user_logged_in">User logged in</string>
+    <string name="user_not_logged_in">User not Logged in</string>
+    <string name="validate_email_password">Please enter a valid email and password</string>
+    <string name="account_created">Account created successfully</string>
+    <string name="email_word">email</string>
+    <string name="user_logged_in_">User logged in</string>
+    <string name="user_not_loggen_in">User not Logged in</string>
+    <string name="posted_photos_folder">postedPhotos/</string>
+    <string name="error_uploading_photo">Error uploading Photo</string>
+    <string name="url_photo"><![CDATA[URL Photo >]]></string>
+    <string name="error_found__">Error found:</string>
+    <string name="error_donwloading_photo">Error downloading Photo</string>
+</resources>
